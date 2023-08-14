@@ -27,5 +27,6 @@ python REGISTRATIONANDLOGIN.py
 ```
 
 ## Sample Video Demonstration
-![Capture](https://github.com/danangeloj/enroll-sched/assets/57935022/fb0a204e-980d-43ae-ab5a-0ab56fb663d1)
+![Capture](https://github.com/danangeloj/enroll-sched/assets/57935022/0a7d5207-84c3-45a5-8089-a9bfca6ac1a1)
+
 https://www.youtube.com/watch?v=VfrRMS4U5kI
